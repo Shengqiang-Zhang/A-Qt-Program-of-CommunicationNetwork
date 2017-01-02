@@ -1,6 +1,7 @@
 # A-Qt-Program-of-CommunicationNetwork
 It's a small program for the course "Data Structure Curriculum Design"
-# Description of the project
+## Description of the project
+
 构建连通 n 个城市的通讯网络。
 
 (1) 输入:城市个数 n(城市编号为 1 到 n),城市间通讯线路条数 m,随机生成
